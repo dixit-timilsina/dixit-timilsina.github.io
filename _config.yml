@@ -26,7 +26,7 @@ author:
   pronouns         : "he/his/him" 
   bio              : "Math and CS graduate interested in the intersection of Biology, Neuroscience, and Computer Science"
   location         : "Pokhara, Nepal"
-  employer         : "New York University Abu Dhabi (Alma mater)"
+  employer         : "NYUAD (Alma mater)"
   uri              : # URL
   email            : "dt1930@nyu.edu" 
 
@@ -74,12 +74,12 @@ author:
   zhihu            : # URL
 
 # Publication Category - The following the list of publication categories and their headings
-# publication_category:
-#   books:
-#     title: 'Books'
-#   manuscripts:
-#     title: 'Journal Articles'    
-#   conferences:
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
     title: 'Conference Papers'
 
 # Site Settings
